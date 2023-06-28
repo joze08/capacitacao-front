@@ -1,5 +1,10 @@
+<script></script>
+
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div>
+    <h1>about page</h1>
+    <router-link to="/home" id="navLink">Voltar</router-link>
   </div>
 </template>
+
+<style scoped></style>
